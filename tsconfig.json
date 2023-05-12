@@ -1,0 +1,38 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json" /* Recommended React Native TSConfig base */,
+  "compilerOptions": {
+    "target": "esnext",
+    "lib": ["esnext"],
+    "rootDir": ".",
+    "module": "es2015",
+    "moduleResolution": "node",
+    "strict": true,
+    "declaration": false,
+    "sourceMap": true,
+    "inlineSources": true,
+    "types": ["jest", "node"],
+    "stripInternal": true,
+    "incremental": true,
+    "skipDefaultLibCheck": true,
+    "inlineSourceMap": false,
+    "noEmit": true,
+    "baseUrl": "./",
+    "paths": {
+      "~/*": ["src/*"]
+    },
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-native",
+    "noImplicitAny": false,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true
+  },
+  "paths": {
+    "~*": ["./src/*"]
+  },
+  "include": ["./src", "index.js", "__tests__", "App.d.ts", "env.d.ts", "./src/types", "src/global.d.ts", "sheets.tsx"],
+  "exclude": ["tsconfig.json", "node_modules", "ios", "android", "_bundle"]
+}

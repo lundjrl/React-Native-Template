@@ -1,0 +1,6 @@
+ios
+android
+package.json
+yarn.lock
+*.config.js
+_bundle_

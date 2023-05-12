@@ -1,0 +1,48 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "search.exclude": {
+    "_bundle_/**": true,
+    "node_modules/**": true,
+    "android/app/src/main/assets/index.android.bundle": true
+  },
+  "files.exclude": {
+    "**/.cache": true,
+    "**/.DS_Store": true,
+    "**/.git": true,
+    "**/.idea": true,
+    "**/_bundle_": true,
+    "**/Thumbs.db": true,
+    "node_modules/**": false,
+    "android/app/src/main/assets/index.android.bundle": true
+  },
+  "javascript.preferences.importModuleSpecifier": "project-relative",
+  "cSpell.words": [
+    "Chatrooms",
+    "deintegrate",
+    "fieldvalue",
+    "Firestore",
+    "formik",
+    "giftcards",
+    "nativewind",
+    "onumber",
+    "ostring",
+    "Parens",
+    "phonenumber",
+    "Pressable",
+    "punchcard",
+    "Punchcards",
+    "RCJSON",
+    "REMOTECONFIGDEFAULTS",
+    "servertime",
+    "react-native-template",
+    "Subviews",
+    "tailwindcss",
+    "unparse",
+    "unplugin",
+    "usehooks"
+  ],
+  "tailwindCSS.classAttributes": ["className", "textStyle"]
+}
