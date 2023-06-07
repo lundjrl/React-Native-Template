@@ -1,3 +1,3 @@
-#!/usr/bin/env node
+#!/usr/local/bin node
 
 console.log('Thanks for downloading the template!');
