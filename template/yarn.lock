@@ -6658,12 +6658,12 @@ nanomatch@^1.2.9:
     snapdragon "^0.8.1"
     to-regex "^3.0.1"
 
-nativewind@4.0.16:
-  version "4.0.16"
-  resolved "https://registry.yarnpkg.com/nativewind/-/nativewind-4.0.16.tgz#40906b047b5e840672cb9338b6c40e055eeabb69"
-  integrity sha512-QeRt4kmubo9XvxYb0vJh74h09fpwM0A4sN4bWo40DMxrrIEbqpgjHeow8pMN1wN8lH5PHttTHyJqDNS/dGoxYQ==
+nativewind@4.0.22:
+  version "4.0.22"
+  resolved "https://registry.yarnpkg.com/nativewind/-/nativewind-4.0.22.tgz#aa485f9140ba8978a337006befebf1cb53d2aa57"
+  integrity sha512-uW2EsqsmSg9Tzu4NIPEMyKaOTd7OxgBjzoTyEtWvd7QhZBtkQ4PeivrKGsimyRnT5609M9FCfhSzSZUXt0iSyA==
   dependencies:
-    react-native-css-interop "0.0.16"
+    react-native-css-interop "0.0.21"
 
 natural-compare-lite@^1.4.0:
   version "1.4.0"
@@ -7320,10 +7320,10 @@ react-native-codegen@^0.71.5:
     jscodeshift "^0.13.1"
     nullthrows "^1.1.1"
 
-react-native-css-interop@0.0.16:
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/react-native-css-interop/-/react-native-css-interop-0.0.16.tgz#52e4bf59898dd6492b71bf5dc4b389935f24d716"
-  integrity sha512-BSejbQyWfvEqaEqNzq7JGITLvoOgZVnRa0Vn1NqQcWm9OPfNE/OTk6k1AatIQ8SHHg0fRJ9v8+OGJYBR0j01PQ==
+react-native-css-interop@0.0.21:
+  version "0.0.21"
+  resolved "https://registry.yarnpkg.com/react-native-css-interop/-/react-native-css-interop-0.0.21.tgz#405099124356eb045fae0b1a6fb9968ae99c22a9"
+  integrity sha512-hb9jpA0iczy2iXpcbiY9FDYEqhUDNSAw2YJzZ2VodMGqrV1qRQtpN2aBBjkWtHjwoeVdDj2V/h8Z25DqSkqG+Q==
   dependencies:
     "@babel/helper-module-imports" "^7.22.15"
     "@babel/traverse" "^7.23.0"
