@@ -13,7 +13,7 @@
     "clean-install": "cd ios && pod deintegrate && pod cache clean --all && cd .. && rm -rf node_modules && yarn install && npx pod-install"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^1.17.12",
+    "@react-native-async-storage/async-storage": "^1.21.0",
     "@react-native-masked-view/masked-view": "^0.3.1",
     "@react-navigation/native": "^6.1.9",
     "@react-navigation/native-stack": "^6.9.17",
