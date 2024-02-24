@@ -7719,10 +7719,10 @@ use-latest-callback@^0.1.7:
   resolved "https://registry.yarnpkg.com/use-latest-callback/-/use-latest-callback-0.1.9.tgz#10191dc54257e65a8e52322127643a8940271e2a"
   integrity sha512-CL/29uS74AwreI/f2oz2hLTW7ZqVeV5+gxFeGudzQrgkCytrHw33G4KbnQOrRlAEzzAFXi7dDLMC9zhWcVpzmw==
 
-usehooks-ts@^2.14.0:
-  version "2.14.0"
-  resolved "https://registry.yarnpkg.com/usehooks-ts/-/usehooks-ts-2.14.0.tgz#8c38fdb9133a7278f88ff8c762695ccaec4abfb8"
-  integrity sha512-jnhrjTRJoJS7cFxz63tRYc5mzTKf/h+Ii8P0PDHymT9qDe4ZA2/gzDRmDR4WGausg5X8wMIdghwi3BBCN9JKow==
+usehooks-ts@^2.15.1:
+  version "2.15.1"
+  resolved "https://registry.yarnpkg.com/usehooks-ts/-/usehooks-ts-2.15.1.tgz#ede348c6f01b4b4fe981e240551624885a2fed83"
+  integrity sha512-AK29ODCt4FT9XleILNbkbjjmkRCNaQrgxQEkvqHjlnT76iPXzTFGvK2Y/s83JEdSxRp43YEnSa3bYBEV6HZ26Q==
   dependencies:
     lodash.debounce "^4.0.8"
 
