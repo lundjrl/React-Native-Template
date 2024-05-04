@@ -19,7 +19,7 @@
     "@react-navigation/native-stack": "^6.9.26",
     "axios": "^1.6.8",
     "classnames": "^2.5.1",
-    "formik": "^2.4.5",
+    "formik": "^2.4.6",
     "nativewind": "4.0.36",
     "react": "18.2.0",
     "react-native": "0.73.6",
