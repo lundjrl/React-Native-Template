@@ -20,7 +20,7 @@
     "axios": "^1.7.7",
     "classnames": "^2.5.1",
     "formik": "^2.4.6",
-    "nativewind": "4.1.17",
+    "nativewind": "4.1.23",
     "react": "18.3.1",
     "react-native": "0.75.4",
     "react-native-dotenv": "^3.4.11",
