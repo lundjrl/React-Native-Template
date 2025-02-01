@@ -26,7 +26,7 @@
     "react-native-dotenv": "^3.4.11",
     "react-native-prompt-android": "^1.1.0",
     "react-native-safe-area-context": "^5.0.0",
-    "react-native-screens": "^4.3.0",
+    "react-native-screens": "^4.6.0",
     "react-native-svg": "^15.10.1",
     "react-native-toast-message": "^2.2.1",
     "react-query": "^3.39.3",
