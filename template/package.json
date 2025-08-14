@@ -22,7 +22,7 @@
     "formik": "^2.4.6",
     "nativewind": "4.1.23",
     "react": "18.3.1",
-    "react-native": "0.77.2",
+    "react-native": "0.77.3",
     "react-native-dotenv": "^3.4.11",
     "react-native-prompt-android": "^1.1.0",
     "react-native-safe-area-context": "^5.5.2",
